@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=130&section=header&descSize=18" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,50:BF2621,100:782B28&height=130&section=header&descSize=18" alt="Profile header" />
 </div>
 
 ##
@@ -62,5 +62,5 @@ I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm intereste
 ##
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=130&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:782B28,50:BF2621,100:FF5757&height=130&section=footer" alt="Rodapé" />
 </div>
