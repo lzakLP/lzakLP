@@ -14,7 +14,7 @@
 
 I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm interested in **Python, HTML and Java** and enjoy turning ideas into useful, elegant, and scalable solutions.
 
-- 🌱 Currently learning: **Java, SQL and HTML**
+- 🌱 Currently learning: **Java, SQL, HTML and Git**
 - 📫 Reach me at: **izakplopes04@gmail.com**
 
 ## 🔮 My Connections
