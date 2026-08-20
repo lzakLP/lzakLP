@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5757,50:BF2621,100:782B28&height=130&section=header&descSize=18" alt="Profile header" />
-</div>
-
-##
-
-<div align="center">
   <div align="center">
-  <img src="https://i.pinimg.com/1200x/01/6d/74/016d740acf3cc014acb55a89889b8ee7.jpg" width="700" alt="Profile image" />
+  <img src="https://i.pinimg.com/1200x/01/6d/74/016d740acf3cc014acb55a89889b8ee7.jpg" width="1000" alt="Profile image" />
 </div>
 </div>
 
@@ -58,11 +52,4 @@ I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm intereste
       src="https://raw.githubusercontent.com/lzakLP/lzakLP/output/pacman-contribution-graph.svg"
     />
   </picture>
-</div>
-
-
-##
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:782B28,50:BF2621,100:FF5757&height=130&section=footer" alt="Rodapé" />
 </div>
