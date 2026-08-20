@@ -38,16 +38,12 @@ I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm intereste
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,github,vscode&theme=dark" alt="Technologies" />
 </div>
 
-#
+
+
+## 📋 My Streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lzakLP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="lzakLP's statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzakLP&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzakLP&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzakLP&theme=tokyonight&hide_border=true" alt="Contribution streak" >
 </div>
 
 ##
