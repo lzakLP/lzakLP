@@ -11,19 +11,19 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+-+Artist/Designer;Just+trying+to+be+better." alt="Animated text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+-+Artist/Designer;Every+day,+just+trying+to+be+better." alt="Animated text" />
 </div>
 
 
 
-## 👨‍💻 About me
+## 📜 About me
 
 I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm interested in **Python, HTML and Java** and enjoy turning ideas into useful, elegant, and scalable solutions.
 
 - 🌱 Currently learning: **Java, SQL and HTML**
 - 📫 Reach me at: **izakplopes04@gmail.com**
 
-## 🤝 Let's connect
+## 🔮 My Connections
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isaac-lopes-667724429//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -32,32 +32,38 @@ I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm intereste
   <a href="https://instagram.com/isgabs._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
-## 🛠️ Technologies and languages
+## 📖 My Knowledge
 
 <div align="center">
-  <!-- Keep only the technologies you use. Find more icons at https://skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,github,vscode&theme=dark" alt="Technologies" />
 </div>
 
-## 📊 GitHub statistics
+#
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<lzakLP>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="lzakLP's statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<lzakLP>&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lzakLP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="lzakLP's statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzakLP&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<lzakLP>&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzakLP&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </div>
 
 ##
-
 <div align="center">
-  <div align="center">
-  <img src="https://i.pinimg.com/736x/9d/7d/e2/9d7de2665f6862c7ba8e5895bd694f30.jpg" width="800" alt="Profile image" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lzakLP/lzakLP/output/pacman-contribution-graph-dark.svg"
+    />
+    <img
+      alt="Pac-Man eating my GitHub contributions"
+      src="https://raw.githubusercontent.com/lzakLP/lzakLP/output/pacman-contribution-graph.svg"
+    />
+  </picture>
 </div>
-</div>
+
 
 ##
 
