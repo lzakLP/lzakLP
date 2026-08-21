@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+-+Artist/Designer;Every+day,+just+trying+to+be+better." alt="Animated text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student+-+Artist/Designer;Trying+to+do+better." alt="Animated text" />
 </div>
 
 
