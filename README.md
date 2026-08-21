@@ -1,4 +1,4 @@
-0\\\\\\\\\\\\\\\\\\\\\\<div align="center">
+<div align="center">
   <div align="center">
   <img src="https://i.pinimg.com/1200x/01/6d/74/016d740acf3cc014acb55a89889b8ee7.jpg" width="1000" alt="Profile image" />
 </div>
