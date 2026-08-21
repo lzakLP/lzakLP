@@ -12,7 +12,7 @@
 
 ## 📜 About me
 
-I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm interested in **Python, HTML and Java** and enjoy turning ideas into useful, elegant, and scalable solutions.
+I'm **Izak**, I'm currently a Software Engineering Student and a Designer/Artist. I'm interested in **Python, HTML and Java** and enjoy turning ideas into useful, elegant, and scalable solutions.
 
 - 🌱 Currently learning: **Java, SQL, HTML and Git**
 - 📫 Reach me at: **izakplopes04@gmail.com**
@@ -26,13 +26,17 @@ I'm **Izak**, a Software Enginering Student and a Designer/Artist. I'm intereste
   <a href="https://instagram.com/isgabs._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
-## 📖 My Knowledge
+## 📖 My Technologies 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,github,vscode&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,js,python,vscode&theme=dark" alt="Technologies" />
 </div>
 
+## 📝 My Technologies - Current Learning 
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=css,java,mysql,github&theme=dark" alt="Technologies" />
+</div>
 
 ## 📋 My Streak
 
