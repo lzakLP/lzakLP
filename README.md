@@ -12,9 +12,20 @@
 
 ## 📜 About me
 
-I'm **Izak**, I'm currently a Software Engineering Student and a Designer/Artist. I'm interested in **Python, HTML and Java** and enjoy turning ideas into useful, elegant, and scalable solutions.
+Software Engineering student focused on building a strong
+foundation in programming and problem solving.
 
-- 🌱 Currently learning: **Java, MySQL, CSS and Git**
+Currently learning:
+
+- Python
+- Java
+- SQL
+- HTML
+- Git & GitHub
+
+I am currently practicing programming through algorithmic
+problems and gradually building personal projects.
+
 - 📫 Reach me at: **izakplopes04@gmail.com**
 
 ## 🔮 My Connections
