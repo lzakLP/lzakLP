@@ -40,7 +40,7 @@ problems and gradually building personal projects.
 ## 📖 My Technologies 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,python,vscode&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,python,vscode&theme=dark" alt="Technologies" />
 </div>
 
 ## 📝 My Technologies - Current Learning 
