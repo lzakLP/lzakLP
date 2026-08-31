@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="https://i.pinimg.com/originals/2f/5a/fd/2f5afd0b9e21e279dff832cd706f22ee.gif" width="900" alt="Profile image" />
+  <img src="https://i.pinimg.com/originals/2f/5a/fd/2f5afd0b9e21e279dff832cd706f22ee.gif" width="1000" alt="Profile image" />
 </div>
 </div>
 
