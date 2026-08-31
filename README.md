@@ -40,13 +40,13 @@ problems and gradually building personal projects.
 ## 📖 My Technologies 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,python,vscode&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,git,github,python,vscode&theme=dark" alt="Technologies" />
 </div>
 
 ## 📝 My Technologies - Current Learning 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css,java,mysql,github&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=css,java,mysql&theme=dark" alt="Technologies" />
 </div>
 
 ## 📋 My Streak
