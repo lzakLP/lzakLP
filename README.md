@@ -19,7 +19,6 @@ Currently learning:
 - Python
 - Java
 - SQL
-- HTML
 - Git & GitHub
 
 I am currently practicing programming through algorithmic
