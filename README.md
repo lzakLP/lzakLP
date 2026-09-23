@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://i.pinimg.com/736x/95/87/17/95871734adc0fc76dde7b3549f0d9c24.jpg"
+    alt="Foto de lzak Gabriel"
+    width="680"
+  />
+</p>
+
+
 <div align="center">
 
   <h1>lzak Gabriel</h1>
@@ -28,7 +37,7 @@ Software Engineering student and artist/designer, focused on building a strong f
 
 I practice through algorithmic exercises and am gradually building personal projects.
 
-Currently learning:
+## I'm Currently learning
 
 - Python
 - Java
