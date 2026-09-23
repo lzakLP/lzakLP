@@ -1,28 +1,28 @@
-<div align="center">
+<div>
 
-  <h1>lzakLP</h1>
+  <h1>lzak Gabriel</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=26&amp;duration=3500&amp;pause=1200&amp;color=BB9AF7&amp;background=1A1B26&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=90&amp;lines=Software+Engineering+Student;Artist+%2F+Designer;Trying+to+do+better"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=A7B9CC&amp;background=181B20&amp;center=false&amp;vCenter=true&amp;width=680&amp;height=64&amp;lines=Software+Engineering+Student;Artist+%2F+Designer;Trying+to+do+better"
     alt="Software Engineering Student · Artist / Designer · Trying to do better"
-    width="900"
+    width="680"
   />
 
   <p>Learning, creating, and improving — one project at a time.</p>
 
   <a href="https://www.linkedin.com/in/isaac-lopes-667724429/">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge" alt="Connect with me on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-303740?style=flat-square" alt="Connect with me on LinkedIn" />
   </a>
   <a href="mailto:izakplopes04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-BB9AF7?style=for-the-badge&amp;logo=gmail&amp;logoColor=1A1B26" alt="Email me at izakplopes04@gmail.com" />
+    <img src="https://img.shields.io/badge/Gmail-303740?style=flat-square&amp;logo=gmail&amp;logoColor=CBBFAE" alt="Email me at izakplopes04@gmail.com" />
   </a>
   <a href="https://instagram.com/isgabs._/">
-    <img src="https://img.shields.io/badge/Instagram-7DCFFF?style=for-the-badge&amp;logo=instagram&amp;logoColor=1A1B26" alt="Find me on Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-303740?style=flat-square&amp;logo=instagram&amp;logoColor=CBBFAE" alt="Find me on Instagram" />
   </a>
 
 </div>
 
-## 🌙 About me
+## About me
 
 Software Engineering student and artist/designer, focused on building a strong foundation in programming and problem-solving.
 
@@ -35,46 +35,42 @@ Currently learning:
 - SQL
 - Git & GitHub
 
-## 💻 Technologies & tools
+## Technologies & tools
 
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,git,github,python,vscode&amp;theme=dark&amp;perline=5"
-    alt="HTML, Git, GitHub, Python, and Visual Studio Code"
-  />
+<div>
+  <img src="https://img.shields.io/badge/HTML-303740?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/Git-303740?style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-303740?style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-303740?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/VS_Code-303740?style=flat-square" alt="Visual Studio Code" />
 </div>
 
-## 📚 Learning & practicing
+## Learning & practicing
 
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=css,java,mysql&amp;theme=dark&amp;perline=3"
-    alt="Currently learning CSS, Java, and MySQL"
-  />
+<div>
+  <img src="https://img.shields.io/badge/CSS-3C5065?style=flat-square" alt="Currently learning CSS" />
+  <img src="https://img.shields.io/badge/Java-3C5065?style=flat-square" alt="Currently learning Java" />
+  <img src="https://img.shields.io/badge/MySQL-3C5065?style=flat-square" alt="Currently learning MySQL" />
 </div>
 
-## 🌌 GitHub activity
+## GitHub activity
 
-<div align="center">
+<div>
   <a href="https://github.com/lzakLP">
     <img
-      src="https://streak-stats.demolab.com/?user=lzakLP&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;background=1A1B26"
+      src="https://streak-stats.demolab.com/?user=lzakLP&amp;hide_border=true&amp;border_radius=8&amp;background=181B20&amp;stroke=343B44&amp;ring=839BB4&amp;fire=CBBFAE&amp;currStreakNum=DDD6CB&amp;sideNums=DDD6CB&amp;currStreakLabel=A7B9CC&amp;sideLabels=A7B9CC&amp;dates=A4ABB4&amp;disable_animations=true"
       alt="GitHub contribution streak for lzakLP"
+      width="480"
     />
   </a>
 </div>
 
-## 👾 Contribution playground
+## Contribution Playthrough
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/lzakLP/lzakLP/output/pacman-contribution-graph-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/lzakLP/lzakLP/output/pacman-contribution-graph.svg"
-      alt="Pac-Man eating my GitHub contributions"
-    />
-  </picture>
+<div>
+  <img
+    src="./game.gif"
+    alt="A spaceship battling enemies generated from my GitHub contributions"
+    width="680"
+  />
 </div>
