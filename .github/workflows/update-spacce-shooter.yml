@@ -1,0 +1,40 @@
+name: Update Space Shooter
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 8 * * *'
+  push:
+    paths:
+      - '.github/workflows/update-space-shooter.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: space-shooter
+  cancel-in-progress: false
+
+jobs:
+  update-game:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 2
+
+      - name: Generate and save Space Shooter
+        uses: czl9707/gh-space-shooter@96d45ed9a790300da731b9fc49b95d697f528464 # v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          output-path: game.gif
+          strategy: random
+          fps: '25'
+          no-amend: 'true'
+          commit-message: 'Update Space Shooter animation'
