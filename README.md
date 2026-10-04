@@ -17,7 +17,7 @@
     width="880"
   />
 
-  <p>Learning, creating, and improving — one project at a time.</p>
+  <p>Learning, creating, and improving — Trying to do better.</p>
 
   <a href="https://www.linkedin.com/in/isaac-lopes-667724429/">
     <img src="https://img.shields.io/badge/LinkedIn-303740?style=flat-square" alt="Connect with me on LinkedIn" height="32" />
