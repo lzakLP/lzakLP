@@ -12,7 +12,7 @@
   <h1>lzak Gabriel</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=A7B9CC&amp;background=181B20&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=64&amp;lines=Software+Engineering+Student;Artist+%2F+Designer;Trying+to+do+better"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=A7B9CC&amp;background=181B20&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=64&amp;lines=Software+Engineering+Student;Artist+%2F+Designer"
     alt="Software Engineering Student · Artist / Designer · Trying to do better"
     width="880"
   />
