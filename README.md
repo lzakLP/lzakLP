@@ -33,34 +33,63 @@
 
 ## About me
 
-Software Engineering student and artist/designer, focused on building a strong foundation in programming and problem-solving.
+Software Engineering student focused on software development, programming fundamentals, and practical problem-solving.
 
-I practice through algorithmic exercises and am gradually building personal projects.
+I build small applications and study projects to turn concepts into working software. My current work includes Python command-line applications, REST API development with FastAPI, relational data storage with SQLite, and algorithmic exercises.
 
-## I'm Currently learning
+I also have an interest in visual design and creative work, which informs how I approach interfaces and documentation.
 
-- Python
-- Java
-- SQL
-- Git & GitHub
+## Current focus
+
+- Strengthening Python and software design fundamentals.
+- Practicing SQL, relational databases, and data persistence.
+- Learning Java and Android development.
+- Studying C and low-level programming fundamentals.
+- Improving testing, documentation, and Git workflows.
 
 ## Technologies & tools
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-303740?style=flat-square" alt="HTML" height="32" />
+  <img src="https://img.shields.io/badge/Python-303740?style=flat-square" alt="Python" height="32" />
+  <img src="https://img.shields.io/badge/SQL-303740?style=flat-square" alt="SQL" height="32" />
+  <img src="https://img.shields.io/badge/SQLite-303740?style=flat-square" alt="SQLite" height="32" />
+  <img src="https://img.shields.io/badge/FastAPI-303740?style=flat-square" alt="FastAPI" height="32" />
   <img src="https://img.shields.io/badge/Git-303740?style=flat-square" alt="Git" height="32" />
   <img src="https://img.shields.io/badge/GitHub-303740?style=flat-square" alt="GitHub" height="32" />
-  <img src="https://img.shields.io/badge/Python-303740?style=flat-square" alt="Python" height="32" />
   <img src="https://img.shields.io/badge/VS_Code-303740?style=flat-square" alt="Visual Studio Code" height="32" />
 </div>
 
 ## Learning & practicing
 
 <div>
-  <img src="https://img.shields.io/badge/CSS-3C5065?style=flat-square" alt="Currently learning CSS" height="32" />
-  <img src="https://img.shields.io/badge/Java-3C5065?style=flat-square" alt="Currently learning Java" height="32" />
-  <img src="https://img.shields.io/badge/MySQL-3C5065?style=flat-square" alt="Currently learning MySQL" height="32" />
+  <img src="https://img.shields.io/badge/Java-3C5065?style=flat-square" alt="Java" height="32" />
+  <img src="https://img.shields.io/badge/Android-3C5065?style=flat-square" alt="Android development" height="32" />
+  <img src="https://img.shields.io/badge/C-3C5065?style=flat-square" alt="C" height="32" />
+  <img src="https://img.shields.io/badge/HTML-3C5065?style=flat-square" alt="HTML" height="32" />
+  <img src="https://img.shields.io/badge/CSS-3C5065?style=flat-square" alt="CSS" height="32" />
 </div>
+
+## Selected projects
+
+### [Support Ticket System](https://github.com/lzakLP/Support-Ticket-System)
+
+A Python application that evolved from a terminal-based CRUD exercise into a REST API built with FastAPI and SQLite. Includes request validation, persistent storage, and automated tests.
+
+### [Scientific Calculator](https://github.com/lzakLP/Scientific-Calculator)
+
+A modular Python command-line calculator with ten mathematical operations, input validation, error handling, and session-based calculation history.
+
+### [Python Studies](https://github.com/lzakLP/Python-Studies)
+
+A collection of programming exercises covering algorithms, control flow, functions, object-oriented programming, and SQLite fundamentals.
+
+### [Personal Library for Android](https://github.com/lzakLP/Personal-Library-Android)
+
+An Android application concept focused on organizing books, reading history, ratings, bookmarks, and notes. The repository currently contains project documentation; implementation is still in development.
+
+### [Energy Consumption Monitor (C)](https://github.com/lzakLP/energy-consumption-monitor-C)
+
+A university project repository documenting a statistical approach to identifying unusually high electricity readings. The C source files are not yet present in the repository.
 
 ## GitHub activity
 
