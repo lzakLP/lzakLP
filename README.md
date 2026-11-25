@@ -79,10 +79,6 @@ A Python application that evolved from a terminal-based CRUD exercise into a RES
 
 A modular Python command-line calculator with ten mathematical operations, input validation, error handling, and session-based calculation history.
 
-### [Python Studies](https://github.com/lzakLP/Python-Studies)
-
-A collection of programming exercises covering algorithms, control flow, functions, object-oriented programming, and SQLite fundamentals.
-
 ### [Personal Library for Android](https://github.com/lzakLP/Personal-Library-Android)
 
 An Android application concept focused on organizing books, reading history, ratings, bookmarks, and notes. The repository currently contains project documentation; implementation is still in development.
