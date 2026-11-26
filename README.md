@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://i.pinimg.com/736x/95/87/17/95871734adc0fc76dde7b3549f0d9c24.jpg"
+    src="https://i.pinimg.com/736x/3d/1b/39/3d1b394e7162e12d3ec31bc5a62b742d.jpg"
     alt="Foto de lzak Gabriel"
     width="680"
   />
